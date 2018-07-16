@@ -25,3 +25,6 @@
 [submodule "external/visibly"]
 	path = external/visibly
 	url = https://github.com/Khan/visibly.js
+[submodule "external/slowparse"]
+	path = external/slowparse
+	url = https://github.com/JettBurns14/slowparse
